@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/gas"
+            android:title="@string/menu_fuelConsumption" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/speedometer"
+            android:title="@string/menu_fuelEfficiency" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/turn_right1"
+            android:title="@string/menu_fuelRange" />
+    </group>
+</menu>

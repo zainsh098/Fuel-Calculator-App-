@@ -1,0 +1,9 @@
+<resources>
+    <!-- Define custom TextAppearance with Poppins font -->
+    <style name="CustomToolbarTitleTextAppearance" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="fontFamily">@font/poppins_medium</item>
+        <item name="android:textColor">@color/DarkGreen</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>

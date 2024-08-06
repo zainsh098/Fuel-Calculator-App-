@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FuelManagementApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/DarkGreen</item>
+
+    </style>
+
+    <style name="Theme.FuelManagementApp" parent="Base.Theme.FuelManagementApp" />
+
+    <style name="Theme.FuelManagementApp.NoActionBar">
+        <item name="colorPrimary">@color/DarkGreen</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.AppCompat.FuelManagementApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.FuelManagementApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.SplashScreen.FuelManagementApp" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/background_color</item>
+        <item name="splashScreenIconSize">@dimen/icon_size</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/gasstationsplash</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.FuelManagementApp</item>
+        <item name="windowSplashScreenAnimationDuration">4000</item>
+
+    </style>
+
+</resources>

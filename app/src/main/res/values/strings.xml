@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FuelManagementApp</string>
+    <string name="fuel_cost_calculator">Fuel Cost Calculator</string>
+    <string name="fuel_efficiency">Fuel Efficiency Calculator</string>
+    <string name="input_your_travel_distance_vehicle_s_fuel_efficiency_nand_current_fuel_price_to_calculate_the_total_cost_and_nfuel_consumption_for_your_journey">Input your travel distance,vehicle\'s fuel efficiency,\nand current fuel price to calculate the total cost and \nfuel consumption for your journey.</string>
+    <string name="title_activity_fuel_app">Fuel App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_fuelConsumption">Fuel Consumption</string>
+    <string name="menu_fuelEfficiency">Fuel Efficiency</string>">
+    <string name="menu_fuelRange">Fuel Range</string>">
+    <string name="fuel_price">Fuel Price</string>
+    <string name="distance">Distance</string>
+    <string name="round_trip">Round Trip</string>
+    <string name="input_your_available_fuel_vehicle_s_fuel_efficiency_n_current_fuel_price_to_calculate_the_fuel_range_and_n_total_cost_of_your_journey">Input your available fuel,vehicle\'s fuel efficiency, \nand current fuel price to calculate the fuel range and \n total cost of your journey</string>
+    <string name="distance_consumption">Distance</string>
+    <string name="default_price">00:00 PKR</string>
+    <string name="default_litre_text">0.00 L</string>
+    <string name="calculate_button_text">Calculate</string>
+    <string name="round_trip_text_switch">Round Trip</string>
+    <string name="fuel">Fuel</string>
+    <string name="fuel_range_calculator">Fuel Range Calculator</string>
+    <string name="fuel_cost_app">FUEL COST APP</string>
+</resources>
